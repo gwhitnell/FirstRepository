@@ -1,4 +1,4 @@
-# Simplepython  program to concatenate .csv files in a directory
+# Simple python  program to concatenate .csv files in a directory
 # it will output to a single csv file with a single header
 
 import os
