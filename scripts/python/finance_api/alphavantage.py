@@ -5,5 +5,5 @@ key = alphakey
 
 ts = TimeSeries(key)
 
-aapl, meta = ts.get_daily(symbol='AAPL')
-print(aapl['2020-09-01'])
+aapl, meta = ts.get_daily(symbol="AAPL")
+print(aapl["2020-09-01"])

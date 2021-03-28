@@ -1,0 +1,3 @@
+scripts/python/config.py
+scripts/terraform/poc.tfvars
+scripts/python/finance_api/config.py
